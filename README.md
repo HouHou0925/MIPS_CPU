@@ -8,14 +8,12 @@
 
 ## Result
 
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/show.jpg)
 
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/oo.jpg)
+![](https://github.com/HouHou0925/MIPS_CPU/blob/main/ALU/img/alu%20total.jpg)
+
+![](https://github.com/HouHou0925/MIPS_CPU/blob/main/ALU/img/%E6%96%87%E5%AD%97%E7%B5%90%E6%9E%9C.jpg)
+
+![](https://github.com/HouHou0925/MIPS_CPU/blob/main/ALU/img/%E4%BD%8D%E7%A7%BB.jpg)
 
 ![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/UseCase%20A.1%20Creating%20an%20UML%20object.jpg)
 
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/UseCase%20B.1%20Creating%20an%20UML%20connection%20line.jpg)
-
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/UseCase%20C.1%20Select%20and%20Unselect%20a%20single%20objects.jpg)
-
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/UseCase%20D.2%20UnGroup%20objects.jpg)
