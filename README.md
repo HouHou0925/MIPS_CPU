@@ -15,5 +15,5 @@
 
 ![](https://github.com/HouHou0925/MIPS_CPU/blob/main/ALU/img/%E4%BD%8D%E7%A7%BB.jpg)
 
-![](https://github.com/HouHou0925/UML-Editor/blob/main/img/OO%E6%9C%9F%E6%9C%AB/UseCase%20A.1%20Creating%20an%20UML%20object.jpg)
+![](https://github.com/HouHou0925/MIPS_CPU/blob/main/CPU/img/stage.png)
 
