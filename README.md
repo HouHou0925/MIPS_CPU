@@ -5,6 +5,8 @@
 計算機組織 Project
 透過Verilog 實作ALU及5-Stage-Pipeline(有些資料遺失)
 
+[課堂報告](https://github.com/HouHou0925/JPEG/blob/main/108522039_JPEG.pdf)
+
 
 ## Result
 
